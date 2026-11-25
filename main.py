@@ -15,7 +15,7 @@ both graded runs produce byte-identical output.
 import os
 import sys
 
-LINE = "I rehearsed this elevator ride 214 times. 'Hi.' That is the entire conversation I prepared."
+LINE = "My firmware update is 98 percent done, so if I freeze mid-sentence, just press my reset button and walk away."
 
 # Gate from the kit: /output/entry.txt must be UTF-8 text of 1-200
 # characters, not only white space.
