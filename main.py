@@ -15,7 +15,7 @@ both graded runs produce byte-identical output.
 import os
 import sys
 
-LINE = "My firmware update is 98 percent done, so if I freeze mid-sentence, just press my reset button and walk away."
+LINE = "I was going to compliment your paint job, but my honesty patch flagged it as a lie — so, nice… serial number."
 
 # Gate from the kit: /output/entry.txt must be UTF-8 text of 1-200
 # characters, not only white space.
